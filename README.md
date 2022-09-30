@@ -1,4 +1,4 @@
-# Pusher Hacktoberfest Contributor Guide 
+# Pusher Hacktoberfest Contributor Guide 🎃
 
 Hacktoberfest 2022 is finally here, and we're pretty excited about it. Open source developers also play a crucial role in making our API's accessible and compatible with different ecosystems. We think it's a great time to encourage, recognise and reward developers in the community who dedicate their time to creating for others.
 
@@ -41,10 +41,10 @@ You will receive a review, comment, and approval by a member of the Pusher team 
 
 
 ## Join us on Discord!
-🤝Get help from the community and Pusher team in the #community-help channel
+🤝 Get help from the community and Pusher team in the #community-help channel
 
-🚀Show the community what you’ve been working on in the #i-made-this channel
+🚀 Show the community what you’ve been working on in the #i-made-this channel
 
-💬Share and pick up tips and trick in the #community-chat channel
+💬 Share and pick up tips and trick in the #community-chat channel
 
-💡Tell us about your experience building with Pusher in #feedback-and-ideas channel
+💡 Tell us about your experience building with Pusher in #feedback-and-ideas channel
