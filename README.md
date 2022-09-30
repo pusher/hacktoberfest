@@ -22,7 +22,7 @@ Here’s what you need to do to win some Pusher swag:
 - For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack
 - Three or more contributions? We’ll give the full swag pack!
 
-⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [users model](https://www.google.com/url?q=https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/&sa=D&source=docs&ust=1664550845001491&usg=AOvVaw3kVNlBgthDiSHHZU07F2s0) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
+⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://www.google.com/url?q=https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/&sa=D&source=docs&ust=1664550845001491&usg=AOvVaw3kVNlBgthDiSHHZU07F2s0) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
 
 **Swag reveal coming soon 👀**
 
