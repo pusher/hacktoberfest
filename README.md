@@ -12,7 +12,7 @@ With our API’s you can build anything that requires realtime functionality inc
 
 
 ## How can you participate?
-- Tackle one of our [open issues](https://github.com/orgs/pusher/projects/12/views/1?groupedBy%5BcolumnId%5D=Repository&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D)
+- Tackle one of our [open issues](https://github.com/search?q=org%3Apusher+label%3Ahacktoberfest&type=Issues)
 - Submit a [demo application](https://github.com/pusher/hacktoberfest/issues/1) powered by Pusher
 - Write a [tutorial](https://github.com/pusher/hacktoberfest/issues/2) to help other users build cool stuff
 - Write a [blog post](https://github.com/pusher/hacktoberfest/issues/3) about an application you built with Pusher
@@ -22,7 +22,7 @@ Here’s what you need to do to win some Pusher swag:
 - For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack
 - Three or more contributions? We’ll give the full swag pack!
 
-⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://www.google.com/url?q=https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/&sa=D&source=docs&ust=1664550845001491&usg=AOvVaw3kVNlBgthDiSHHZU07F2s0) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
+⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
 
 **Swag reveal coming soon 👀**
 
@@ -44,13 +44,13 @@ You will receive a review, comment, and approval by a member of the Pusher team 
 
 🔗 [Pusher Dev Discord](https://discord.gg/pEWjmP9uA7)
 
-🤝 Get help from the community and Pusher team in the #community-help channel
+🤝 Get help from the community and Pusher team in the [#community-help](https://discord.com/channels/1005135908636471316/1005135909580177495) channel
 
-🚀 Show the community what you’ve been working on in the #i-made-this channel
+🚀 Show the community what you’ve been working on in the [#i-made-this](https://discord.com/channels/1005135908636471316/1005135909580177493) channel
 
-💬 Share and pick up tips and trick in the #community-chat channel
+💬 Share and pick up tips and trick in the [#community-chat](https://discord.com/channels/1005135908636471316/1006950213388353576) channel
 
-💡 Tell us about your experience building with Pusher in #feedback-and-ideas channel
+💡 Tell us about your experience building with Pusher in [#feedback-and-ideas](https://discord.com/channels/1005135908636471316/1006950831620378806) channel
 
 
 
