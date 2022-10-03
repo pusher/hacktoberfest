@@ -55,3 +55,6 @@ You will receive a review, comment, and approval by a member of the Pusher team 
 
 
 
+## Krishna Agarwal
+
+https://krishna-agarwal.medium.com/build-mediums-real-time-applause-feature-with-angular-and-pusher-3d7d4fa0d638
