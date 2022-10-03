@@ -3,10 +3,10 @@
 Hacktoberfest 2022 is finally here, and we're pretty excited about it. Open source developers also play a crucial role in making our API's accessible and compatible with different ecosystems. We think it's a great time to encourage, recognise and reward developers in the community who dedicate their time to creating for others.
 
 ## What is Hacktoberfest?
-Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion. 
+[Hacktoberfest](https://hacktoberfest.com) is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion. 
 
 ## About Pusher
-Pusher provides bi-directional hosted realtime APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure so you can build the features your users need, fast.
+[Pusher](https://pusher.com/) provides bi-directional hosted realtime APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure so you can build the features your users need, fast.
 
 With our API’s you can build anything that requires realtime functionality including chat, gaming, charts, location tracking, presence indicators and [more](https://pusher.com/channels/use-cases).
 
@@ -30,6 +30,7 @@ Here’s what you need to do to win some Pusher swag:
 - PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
 - Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
 - Have a read of the Pusher community [code of conduct](https://pusher.com/code-of-conduct) to help us maintain a safe and inclusive environment for the community and Pusher team 
+- PRs fulfill all the required conditions will be labeled as "hacktoberfest-accepted" before merging.
 
 
 ## Ready to make a contribution? 
