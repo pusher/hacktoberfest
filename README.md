@@ -33,7 +33,7 @@ Here’s what you need to do to win some Pusher swag:
 - PRs fulfill all the required conditions will be labeled as "hacktoberfest-accepted" before merging.
 
 
-## Ready to make a contribution? 
+## Ready to make a contribution?? 
 If you’re working on an open issue, read the CONTRIBUTING.MD file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
 
 If you’re building a demo app, writing a tutorial or blog post, fork the README.MD file in the pusher/hacktoberfest repo and make PR with a link to what you’ve worked on and an email address we can reach out to you to claim your swag on.
