@@ -5,7 +5,7 @@ Hacktoberfest 2022 is finally here, and we're pretty excited about it. Open sour
 ## What is Hacktoberfest?
 [Hacktoberfest](https://hacktoberfest.com) is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion. 
 
-## About Pusher
+## About Pusher:
 [Pusher](https://pusher.com/) provides bi-directional hosted realtime APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure so you can build the features your users need, fast.
 
 With our API’s you can build anything that requires realtime functionality including chat, gaming, charts, location tracking, presence indicators and [more](https://pusher.com/channels/use-cases).
