@@ -19,7 +19,7 @@ With our API’s you can build anything that requires realtime functionality inc
 
 Here’s what you need to do to win some Pusher swag:
 - If you make one contribution you’ll win one item from the Pusher Hacktoberfest swag pack
-- For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack
+- For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack.
 - Three or more contributions? We’ll give the full swag pack!
 
 ⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
