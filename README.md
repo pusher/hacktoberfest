@@ -24,7 +24,7 @@ Here’s what you need to do to win some Pusher swag:
 
 ⭐ Special prize: If you use any of the new Pusher features in any of your contributions ([cache channels](https://blog.pusher.com/introducing-cache-channels/), [user_info](https://blog.pusher.com/build-an-app-with-information-rich-whos-online-feature/) and [subscription count](https://blog.pusher.com/counting-live-users-at-scale-with-subscription-count-events/)) you’ll win the full swag pack! 
 
-** Check out the [limited edition Hacktoberfest swag](https://twitter.com/pusher/status/1580864210606895104) we'll be awarding our #hacktoberfest contributors 👀**
+** Check out the [limited edition Hacktoberfest swag](https://twitter.com/pusher/status/1580864210606895104) we'll be awarding our #hacktoberfest contributors. 👀**
 
 ## Tips for contributors
 - PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
