@@ -12,6 +12,7 @@ With our API’s you can build anything that requires realtime functionality inc
 
 
 ## How can you participate?
+
 - Tackle one of our [open issues](https://github.com/search?q=org%3Apusher+label%3Ahacktoberfest&type=Issues)
 - Submit a [demo application](https://github.com/pusher/hacktoberfest/issues/1) powered by Pusher
 - Write a [tutorial](https://github.com/pusher/hacktoberfest/issues/2) to help other users build cool stuff
