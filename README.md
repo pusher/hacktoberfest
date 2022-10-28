@@ -54,4 +54,4 @@ You will receive a review, comment, and approval by a member of the Pusher team 
 
 💬 Share and pick up tips and trick in the [#community-chat](https://discord.com/channels/1005135908636471316/1006950213388353576) channel
 
-💡 Tell us about your experience building with Pusher in [#feedback-and-ideas](https://discord.com/channels/1005135908636471316/1006950831620378806) channel
+💡 Tell us about your experience building with Pusher in [#feedback-and-ideas](https://discord.com/channels/1005135908636471316/1006950831620378806) channel.
