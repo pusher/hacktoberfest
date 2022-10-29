@@ -40,7 +40,6 @@ If you’re building a demo app, writing a tutorial or blog post, fork the READM
 
 You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st. 
 
-
 ## Join us on Discord!
 
 🔗 [Pusher Dev Discord](https://discord.gg/pEWjmP9uA7)
