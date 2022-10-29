@@ -31,7 +31,9 @@ Here’s what you need to do to win some Pusher swag:
 - Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
 - Have a read of the Pusher community [code of conduct](https://pusher.com/code-of-conduct) to help us maintain a safe and inclusive environment for the community and Pusher team 
 - PRs fulfill all the required conditions will be labeled as "hacktoberfest-accepted" before merging.
-
+-
+-
+-
 
 ## Ready to make a contribution? 
 If you’re working on an open issue, read the CONTRIBUTING.MD file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
