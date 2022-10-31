@@ -26,6 +26,7 @@ Here’s what you need to do to win some Pusher swag:
 
 ** Check out the [limited edition Hacktoberfest swag](https://twitter.com/pusher/status/1580864210606895104) we'll be awarding our #hacktoberfest contributors 👀**
 
+
 ## Tips for contributors
 - PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
 - Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
